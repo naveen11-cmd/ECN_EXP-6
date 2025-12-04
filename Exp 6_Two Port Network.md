@@ -55,7 +55,6 @@ ABCD Parameter:
 
 <img width="1080" height="382" alt="image" src="https://github.com/user-attachments/assets/8e7256ea-a271-469e-9899-8678236b8502" />
 
-
 Results:-
 Thus,  Z ,h and ABCD parameters of single and cascaded two-Port networks experimentally and verify their interrelationships.
 
@@ -68,7 +67,6 @@ Z-parameter:
 h-paramter:
 
 <img width="1280" height="327" alt="image" src="https://github.com/user-attachments/assets/f4a87944-716e-48f8-b1f3-7e49a7075029" />
-
 
 ABCD Parameter:
 
